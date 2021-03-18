@@ -28,6 +28,6 @@ Here are some ideas to get you started:
 </a>
 <br>
 <p align="center"> 
-  Visitor count <br>
+  Visitor counter : <br>
   <img src="https://profile-counter.glitch.me/paayk/count.svg" />
 </p>
