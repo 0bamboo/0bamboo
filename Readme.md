@@ -24,22 +24,3 @@ Here are some ideas to get you started:
 <a href="">
   <img align="center" alt="Top Language Card" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paayk&theme=dark" />
 </a>
-
-<!-- 42Network card: the dark theme version -->
-
-<a href="https://github.com/paayk/1337-readme">
-  <img aligne="center" alt="1337 readme" height="490" src="https://1337-readme.vercel.app/api/profile?cursus=42&dark=true&login=abdait-m" />
-</a>
-
-
-
-<!-- GitHub Extra Pins       -->
-
-<a href="https://github.com/paayk/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/paayk/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
-</a>
-
-
