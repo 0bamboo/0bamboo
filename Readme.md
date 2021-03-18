@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-##### Hey there,
+# Hey there,
 
 - 🌱 I’m currently learning everything 😄😄....
 
@@ -28,6 +28,6 @@ Here are some ideas to get you started:
 </a>
 <br>
 <p align="center"> 
-  Visitor count <br><br>
+  Visitor count <br>
   <img src="https://profile-counter.glitch.me/paayk/count.svg" />
 </p>
