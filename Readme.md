@@ -26,8 +26,9 @@ Here are some ideas to get you started:
 <a href="">
   <img align="center" alt="Top Language Card" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paayk&theme=dark" />
 </a>
-
+<br>
+<br>
 <p align="center"> 
-  Visitor count<br>
+  Visitor counter <br>
   <img src="https://profile-counter.glitch.me/paayk/count.svg" />
 </p>
