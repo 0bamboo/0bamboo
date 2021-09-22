@@ -19,10 +19,10 @@ Here are some ideas to get you started:
 
 <!-- GitHub Stats Card      -->
 <a href="https://github.com/nowl01">
-  <img align="center" alt="Github stats Card" src="https://github-readme-stats.vercel.app/api?username=nowl01&line_height=40&show_icons=true&theme=dark" />
+  <img align="center" alt="Github stats Card" src="https://github-readme-stats.vercel.app/api?username=nowl01&line_height=40&show_icons=true&theme=nightowl" />
 </a>
 
 <!-- Top Languages Card      -->
 <a href="">
-  <img align="center" alt="Top Language Card" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nowl01&theme=dark" />
+  <img align="center" alt="Top Language Card" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nowl01&theme=nightowl" />
 </a>
