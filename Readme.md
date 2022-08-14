@@ -36,11 +36,11 @@
 
 <h3 align="left">Social media:</h3>
 <p align="left">
-<a href="https://twitter.com/nowl01" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/000000/twitter.png" alt="nowl01" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/nowl01/" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="nowlo1" height="30" width="40" /></a>
-<a href="https://www.instagram.com/nowl0_1/" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="nowl01" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/12303947/nowl0-1"><img src="https://img.icons8.com/fluency/48/000000/stackoverflow.png"/></a>
-<a href="mailto:itsabdennacerama@gmail.com?subject=Github profile Visit"><img src="https://img.icons8.com/color/48/000000/gmail-new.png"/></a>
+<a href="https://twitter.com/nowl01" target="blank"><img  src="https://img.icons8.com/fluency/48/000000/twitter.png" alt="nowl01" align="center" height="45" width="45" /></a>
+<a href="https://www.linkedin.com/in/nowl01/" target="blank"><img  src="https://img.icons8.com/color/48/000000/linkedin.png" alt="nowlo1" align="center" height="45" width="45" /></a>
+<a href="https://www.instagram.com/nowl0_1/" target="blank"><img  src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="nowl01" align="center" height="45" width="45" /></a>
+<a href="https://stackoverflow.com/users/12303947/nowl0-1"><img src="https://img.icons8.com/fluency/48/000000/stackoverflow.png" align="center" height="45" width="45"/></a>
+<a href="mailto:itsabdennacerama@gmail.com?subject=Github profile Visit"><img src="https://img.icons8.com/color/48/000000/gmail-new.png" align="center" height="45" width="45"/></a>
 </p>
 
 
