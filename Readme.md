@@ -3,7 +3,7 @@
 <h3 align="center">An enthusiastic software developer </h3>
 
 <p align="center">
-  <a href="https://github.com/nowl01"><img src="https://typing-text-svg.herokuapp.com?color=%23283247&size=40&center=true&vCenter=true&width=600&lines=Ohayou+%F0%9F%91%80;I'm+a+Student+%2F+Developer+;and+a+Gamer++...++"></a>
+  <a href="https://github.com/nowl01"><img src="https://typing-text-svg.herokuapp.com?color=%7287105&size=40&center=true&vCenter=true&width=600&lines=Ohayou+%F0%9F%91%80;I'm+a+Student+%2F+Developer+;and+a+Gamer++...++"></a>
 </p>
 
 
