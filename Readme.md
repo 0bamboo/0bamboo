@@ -3,7 +3,7 @@
 <h3 align="center">An enthusiastic software developer </h3>
 
 <p align="center">
-  <a href="https://github.com/nowl01"><img src="https://typing-text-svg.herokuapp.com?color=%23283247&size=40&center=true&vCenter=true&width=600&lines=Ohayou+%F0%9F%91%80;I'm+a+Student+%2F+Developer+;and+a+Gamer++...+"></a>
+  <a href="https://github.com/nowl01"><img src="https://typing-text-svg.herokuapp.com?color=%23283247&size=40&center=true&vCenter=true&width=600&lines=Ohayou+%F0%9F%91%80;I'm+a+Student+%2F+Developer+;and+a+Gamer++...++"></a>
 </p>
 
 
@@ -13,7 +13,7 @@
 ![](https://github.com/nowl01/nowl01/blob/master/files/nightcoding.gif)
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=nowl01&label=Profile%20views&color=0e75b6&style=flat" alt="nowl01" /> </p>
 
-<div align="center">
+
 👨🏽‍💻 I’m currently studying Software Engineering at **[1337 Coding School](https://1337.ma)**
 
 🌱 I’m currently learning **Everything**
@@ -21,7 +21,7 @@
 💬 Ask me about **JavaScript, TypeScript, ReactJs,and C/C++**
 	
 💪🏼 I'm open to collaborating on interesting projects.
-</div>
+
 
 </div>
 
