@@ -46,19 +46,6 @@
 </p>
 
 
-### Github contribution:
-<!-- GitHub Stats Card      -->
-<a href="https://github.com/nowl01">
-  <img align="center" alt="Github stats Card" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nowl01&theme=nord_dark" width="100%"/>
-</a>
-
-<a href="https://github.com/nowl01">
-  <img align="center" alt="Github stats Card" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nowl01&theme=nord_dark" width="48%"/>
-</a>
-<a href="https://github.com/nowl01">
-  <img align="center" alt="Github stats Card" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nowl01&theme=nord_dark"  width="48%" />
-</a>
-
 
 	  
 <h4 align="center">Watch my contribution graph get eaten by the snake 🐍</h4>
